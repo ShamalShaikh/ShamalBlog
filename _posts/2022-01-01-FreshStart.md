@@ -4,7 +4,7 @@ date: 2022-01-01 12:00:00 +/-TTTT
 categories: [Personal, New]
 tags: [personal]     # TAG names should always be lowercase
 image:
-  src: /images/GIFS/Assalamualaikum.gif
+  src: images\\GIFS\\Assalamualaikum.gif
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: Assalamualaikum
