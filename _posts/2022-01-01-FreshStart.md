@@ -9,12 +9,17 @@ image:
   height: 400   # in pixels
   alt: Assalamualaikum
 ---
-![img-description](/ShamalBlog/images/GIFS/run.gif){: width="100" height="100" }
-_Let's Start Blogging this new year!_
-
-
 # Welcome
 
-**Hello world**, this is my first Jekyll blog post.
+**Hello world**, this is my first blog post.
 
 I hope you like it!
+
+I have some great ideas and for the future!
+
+Wanna know more about me?
+Follow me on [**GitHub**](https://github.com/ShamalShaikh) and [**LinkedIn**](https://www.linkedin.com/in/shamal-shaikh/)
+
+
+![img-description](/ShamalBlog/images/GIFS/run.gif){: width="500" height="500" }
+_Let's Start Blogging this new year!_
