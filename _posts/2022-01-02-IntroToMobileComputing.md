@@ -16,14 +16,21 @@ image:
 
 
 A Good start to the topic of our discussion - **Mobile Computing**.
+
 Ask yourself:
+
 Q1. What will computers look like in ten years?
+
 Q2. How will users network with the help of these next-gen computers? 
 
 So take a step back, a computer exhibits one of the following characteristics: 
-  ●**Fixed and wired**: It describes the typical desktop computer in an office. Neither weight nor power consumption of the devices allow for mobile usage. The devices use fixed networks for performance reasons.
+
+  ● **Fixed and wired**: It describes the typical desktop computer in an office. Neither weight nor power consumption of the devices allow for mobile usage. The devices use fixed networks for performance reasons.
+
   ● **Mobile and wired**: Many of today’s laptops fall into this category; users carry the laptop from one hostel to the next, reconnecting to the company’s network via the telephone network and a modem. 
+
   ● **Fixed and wireless**: This mode is used for installing networks, e.g., in historical buildings to avoid damage by installing wires, or at trade shows to ensure fast network setup. Another example is bridging the last mile to a customer by a new operator that has no wired infrastructure and does not want to lease lines from a competitor. 
+
   ● **Mobile and wireless**: No cable restricts the user, who can roam between different wireless networks. A successful example is GSM with more than 800 million users. 
 
 So two properties pop up in this discussion, **User mobility and Device portability**:
