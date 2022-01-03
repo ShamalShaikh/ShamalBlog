@@ -10,14 +10,14 @@ image:
   alt: 5G-Networking
 ---
 # Mobile Computing Course (3 Credits)
-## Introduction to Mobile Networks
-## Types - MANET, WSN, VANET, PAN, DTN, Cellular
-## Reference Models for Network communication
+## 1. Introduction to Mobile Networks
+## 2. Types - MANET, WSN, VANET, PAN, DTN, Cellular
+## 3. Reference Models for Network communication
 
 
 A Good start to the topic of our discussion - **Mobile Computing**.
 Ask yourself:
-Q1. What will computers look like in ten years? 
+Q1. What will computers look like in ten years?
 Q2. How will users network with the help of these next-gen computers? 
 
 So take a step back, a computer exhibits one of the following characteristics: 
