@@ -18,9 +18,7 @@ image:
 A Good start to the topic of our discussion - **Mobile Computing**.
 
 Ask yourself:
-
 Q1. What will computers look like in ten years?
-
 Q2. How will users network with the help of these next-gen computers? 
 
 So take a step back, a computer exhibits one of the following characteristics: 
