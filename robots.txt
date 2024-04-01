@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://shamalshaikh.github.io/ShamalBlog/sitemap.xml
