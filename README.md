@@ -1,46 +1,76 @@
-# Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+# Shamal Shaikh's Portfolio
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `_includes`, `_layout`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
+Welcome to my portfolio! I am a passionate web developer and computer science enthusiast with a strong foundation in algorithmic thinking, data structures, and software development. This repository highlights my projects and skills. Feel free to explore and connect with me!
 
-The Jekyll organization claims that this is to leave the ball in the user’s court, but this also results in users not being able to enjoy the out-of-the-box experience when using feature-rich themes.
+## About Me
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your Jekyll site. The following is a list of targets:
+I am currently pursuing a Master's degree in Computer Science at the University of Colorado Boulder. I hold a Bachelor's degree in Computer Science from the National Institute of Technology, Warangal. My expertise lies in web development, and I am particularly skilled in using Java, Python and Django for backend development.
 
-```shell
-.
-├── _config.yml
-├── _data
-├── _plugins
-├── _tabs
-└── index.html
-```
+### Professional Experience
+- **Senior Web Developer** at IEEE Student Branch NITW
+  - Led the development of multiple web applications, improving user experience and functionality.
+  - Collaborated with a team of developers to design and implement features.
 
-In order to save your time, and to prevent you from missing some files when copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+### Skills
 
-## Prerequisites
+#### Technical Skills
+- **Languages:** Python, JavaScript, HTML, CSS, SQL
+- **Frameworks:** Django, React
+- **Tools:** Git, Docker, Postman, Bootstrap
+- **Other:** Algorithm design, Data structures, Problem-solving
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll` and `Bundler`.
+#### Soft Skills
+- Effective communication
+- Team collaboration
+- Problem-solving
 
-## Installation
+### Projects
 
-[**Use this template**][use-template] to generate a brand new repository and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
+Here are some of my notable projects:
 
-Then clone it to your local machine and run:
+#### [Project 1: Personal Blog](https://github.com/ShamalShaikh/PersonalBlog)
+A personal blog application built with Django where users can create, edit, and delete posts. Includes features like user authentication and comment sections.
 
-```
-$ bundle
-```
+- **Technologies Used:** Django, HTML, CSS, JavaScript
+- **Highlights:**
+  - Implemented user authentication and authorization.
+  - Designed a responsive and user-friendly interface.
 
-## Usage
+#### [Project 2: [Work in progress] E-commerce Website](https://github.com/ShamalShaikh/EcommerceWebsite)
+An e-commerce platform where users can browse products, add them to the cart, and complete purchases.
 
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#usage).
+- **Technologies Used:** Django, Bootstrap, JavaScript
+- **Highlights:**
+  - Integrated a payment gateway for secure transactions.
+  - Developed an admin panel for managing products and orders.
 
-## License
+#### [Project 3: [Work in progress] Data Visualization Dashboard](https://github.com/ShamalShaikh/DataVisualizationDashboard)
+A web application for visualizing data using interactive charts and graphs.
 
-This work is published under [MIT][mit] License.
+- **Technologies Used:** React, D3.js, CSS
+- **Highlights:**
+  - Utilized D3.js for dynamic and interactive data visualizations.
+  - Ensured responsiveness and cross-browser compatibility.
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+### Blog
+
+I occasionally write about industry trends, tutorials, and personal insights. Check out my [blog](https://shamalshaikh.github.io/ShamalBlog) for more information.
+
+### Contact
+
+Feel free to reach out to me for project collaborations, job opportunities, or any questions you may have.
+
+- **Email:** shamalshaikh@gmail.com or shamal.shaikh@colorado.edu
+- **LinkedIn:** [Shamal Shaikh](https://www.linkedin.com/in/shamalshaikh)
+- **GitHub:** [Shamal Shaikh](https://github.com/ShamalShaikh)
+
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shamalshaikh) 
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ShamalShaikh)
+
+---
+
+If you liked any of my projects, please give them a ⭐ and share them with your network!
+
+Thank you for visiting my portfolio!
