@@ -65,14 +65,14 @@ GEM
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
-    liquid (4.0.3)
+    liquid (4.0.4)
     listen (3.7.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    nokogiri (1.12.5-x64-mingw32)
-      racc (~> 1.4)
-    nokogiri (1.12.5-x86_64-linux)
+    mini_portile2 (2.6.1)
+    nokogiri (1.12.5)
+      mini_portile2 (~> 2.6.1)
       racc (~> 1.4)
     parallel (1.21.0)
     pathutil (0.16.2)
@@ -105,6 +105,7 @@ GEM
     yell (2.2.2)
 
 PLATFORMS
+  arm64-darwin-22
   x64-mingw32
   x86_64-linux
 

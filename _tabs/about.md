@@ -4,30 +4,25 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## 🌟 Meet Shamal Shaikh: Passionate Computer Science Enthusiast 🚀
+## 🌟 Meet Shamal Shaikh: 
 
-Hey there! I'm Shamal Shaikh, a first-year Master's student at the University of Colorado, Boulder, originally from vibrant India. 🇮🇳 My journey began at the National Institute of Technology, Warangal, where I earned my bachelor's degree.
+🎓 Master’s in Computer Science | Graduate Algorithms Instructor @ CU Boulder | Ex-Oracle SDE
 
-###  Exploring Tech, Science, and Philosophy
+💻 Full-Stack Developer | NLP & Reinforcement Learning Enthusiast
 
-I'm fascinated by the intersections of science, technology, and philosophy. As a computer scientist and Graduate Teaching Assistant, I love diving into intellectual challenges.
+### 🌟 Key Highlights:
 
-### 🔗 Bridging Theory with Practice
+- Developed scalable microservices and backend systems for Oracle Enterprise Manager, improving deployment efficiency for 10,000+ clients.
+- Proficient in React.js, Node.js, Spring Boot, Django, GraphQL, and cloud platforms like AWS & Azure.
+- Built a log analysis tool using Kubernetes, Docker, REST APIs, and ElasticSearch to streamline error detection and code correction.
 
-With expertise in data structures, algorithms, and machine learning, I'm driven to solve real-world problems. At Oracle, I honed my skills as a Software Developer, enhancing Oracle Enterprise Manager and Fleet Maintenance.
+### 🚀 Tech Stack Expertise:
 
-### Pushing Knowledge Boundaries
+- Frontend: React.js, Next.js, TypeScript
+- Backend: Java, Python, C++, REST APIs
+- Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD.
+- Data: PostgreSQL, MongoDB, ElasticSearch
 
-My research focuses on natural language processing, dialog understanding, and multi-lingual systems. I bring diverse linguistic skills and a passion for innovation to the table.
+📢 Actively seeking Summer 2025 roles in Software Development, Full-Stack, or ML.
 
-### 🎓 Inspiring Minds through Teaching
-
-Teaching is my passion. 🍎 As a TA for the Algorithms course, I ignite curiosity and foster innovation among students.
-
-### 🌟 Embracing Future Opportunities
-
-Seeking summer 2024 internships in software development, machine learning, or data science. 🌞 Ready to apply my skills and embark on new learning adventures.
-
-### 🚀 Join Me on This Voyage
-
-Thanks for joining me on this exciting journey through academia and technology. Let's shape the future of computer science together!
+✨ Let’s connect and innovate together!
