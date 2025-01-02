@@ -26,3 +26,7 @@ order: 4
 📢 Actively seeking Summer 2025 roles in Software Development, Full-Stack, or ML.
 
 ✨ Let’s connect and innovate together!
+
+
+<!-- Learn Markdown -->
+<!-- https://www.markdownguide.org/basic-syntax/#line-break-best-practices -->
