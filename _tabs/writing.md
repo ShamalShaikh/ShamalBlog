@@ -10,7 +10,7 @@ order: 5
         <p>Sharing knowledge and experiences in software development and AI</p>
     </div>
 
-    <div class="writing-categories">
+    <!-- <div class="writing-categories">
         <section class="category">
             <h2>📚 Technical Guides</h2>
             <div class="article-grid">
@@ -34,7 +34,7 @@ order: 5
                 <!-- Add more case studies -->
             </div>
         </section>
-    </div>
+    </div> -->
 </div>
 
 <style>
