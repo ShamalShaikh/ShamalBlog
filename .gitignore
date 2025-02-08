@@ -15,21 +15,3 @@ vendor
 # npm dependencies
 node_modules
 package-lock.json
-
-# sass cache
-.sass-cache
-
-# jekyll cache
-.jekyll-cache
-
-# jekyll metadata
-.jekyll-metadata
-
-# DS_Store
-.DS_Store
-
-# images
-*.jpg
-*.png
-!assets/img/*.jpg
-!assets/img/*.png

@@ -4,7 +4,9 @@ date: 2025-02-08 12:00:00 +/-TTTT
 categories: [AI, Research]
 tags: [deepseek, llm, moe, ai-research]     # TAG names should always be lowercase
 image:
-  path: /assets/img/posts/deepseek-banner.jpg
+  src: "/ShamalBlog/images/deepseek/deepseek-banner.jpg"  # Updated to match your banner image
+  width: 800
+  height: 400
   alt: "DeepSeek Architecture"
 ---
 
