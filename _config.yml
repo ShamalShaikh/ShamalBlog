@@ -1,5 +1,8 @@
 # The Site Configuration
 
+# Add this near the top of your config file
+future: true
+
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -171,3 +174,10 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# Add this under the img_cdn setting
+defaults:
+  - scope:
+      path: "images"
+    values:
+      image: true

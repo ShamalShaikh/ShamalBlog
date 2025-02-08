@@ -1,0 +1,32 @@
+@use "sass:math";
+@use "jekyll-theme-chirpy/assets/css/style" as theme;
+@use "custom/main" as custom;
+
+@forward "jekyll-theme-chirpy/assets/css/style";
+
+/* Add your custom CSS here */
+
+/* Custom overrides */
+:root {
+  --sidebar-width: #{custom.$sidebar-width};
+  --topbar-height: #{custom.$topbar-height};
+}
+
+/* Component styles */
+.post-content {
+  font-size: 1.1rem;
+  line-height: 1.75;
+  
+  @include custom.custom-transition;
+}
+
+.sidebar {
+  width: calc(var(--sidebar-width));
+  
+  @include custom.flex-center;
+}
+
+/* Use modern calc() instead of division */
+.content {
+  max-width: calc(#{custom.$content-max-width} - var(--sidebar-width));
+} 
