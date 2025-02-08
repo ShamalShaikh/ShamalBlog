@@ -1,13 +1,13 @@
 ---
 title: "DeepSeek's Game-Changing Approach to Large Language Models"
-date: 2025-02-6 12:00:00 +/-TTTT
-categories: [AI, Large Language Models]
+date: 2025-02-08 12:00:00 +/-TTTT
+categories: [AI, Research]
 tags: [deepseek, llm, moe, ai-research]     # TAG names should always be lowercase
 image:
   src: "/ShamalBlog/images/deepseek/deepseek-banner.jpg"  # Updated to match your banner image
   width: 800
   height: 400
-  alt: "DeepSeek Architecture Illustration"
+  alt: "DeepSeek Architecture"
 ---
 
 ## The Rise of DeepSeek 🚀

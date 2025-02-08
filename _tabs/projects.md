@@ -4,135 +4,123 @@ icon: fas fa-project-diagram
 order: 4
 ---
 
-<div class="page-container">
+<div class="projects-container">
     <div class="header-section">
-        <h1 class="main-title">Featured Projects 🚀</h1>
-        <p class="subtitle">Welcome to my projects portfolio! Here you'll find a collection of my work in AI, Machine Learning, and Software Development.</p>
+        <h1>Featured Projects & Innovations 🚀</h1>
+        <p class="subtitle">Exploring the intersection of AI, Cloud Computing, and Software Development</p>
     </div>
 
-    <div class="projects-section">
-        <h2>AI and Machine Learning Projects</h2>
-
-        <div class="project-card">
-            <h3>1. XCode2YCode</h3>
-            <a href="https://github.com/ShamalShaikh/XCode2YCode" target="_blank">
-                <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="GitHub Repo"/>
-            </a>
-            <p>An innovative code translation system that:</p>
-            <ul>
-                <li>🤖 Converts code between different programming languages</li>
-                <li>🔄 Uses Agentic AI for intelligent translation</li>
-                <li>🎯 Maintains code functionality and structure</li>
-                <li>🛠️ <strong>Tech Stack</strong>: Python, LLMs, Neural Machine Translation</li>
-            </ul>
-        </div>
-
-        <div class="project-card">
-            <h3>2. LinkedinAgent</h3>
-            <a href="https://github.com/ShamalShaikh/LinkedinAgent" target="_blank">
-                <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="GitHub Repo"/>
-            </a>
-            <p>An automated LinkedIn management system:</p>
-            <ul>
-                <li>📊 Manages job applications automatically</li>
-                <li>🤖 Intelligent profile optimization</li>
-                <li>📈 Application tracking and analytics</li>
-                <li>🛠️ <strong>Tech Stack</strong>: Python, LinkedIn API, Automation Tools</li>
-            </ul>
-        </div>
-
-        <div class="project-card">
-            <h3>3. AgenticAI</h3>
-            <a href="https://github.com/ShamalShaikh/AgenticAI" target="_blank">
-                <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="GitHub Repo"/>
-            </a>
-            <p>A sophisticated Slack-based agent that:</p>
-            <ul>
-                <li>📅 Manages meetings and conversations</li>
-                <li>🤝 Handles team communication</li>
-                <li>🔄 Provides automated responses</li>
-                <li>🛠️ <strong>Tech Stack</strong>: Python, Slack API, NLP Models</li>
-            </ul>
-        </div>
-    </div>
-
-    <div class="skills-section">
-        <h2>Technical Expertise 💻</h2>
-        <div class="skills-container">
-            <div class="skill-category">
-                <h3>🔧 Languages</h3>
-                <div class="skill-badges">
-                    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-                    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-                    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-                    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+    <div class="project-categories">
+        <!-- AI & ML Projects -->
+        <section class="category">
+            <h2>🤖 AI & Machine Learning</h2>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <h3>XCode2YCode</h3>
+                    <div class="project-links">
+                        <a href="https://github.com/ShamalShaikh/XCode2YCode" class="github-link">
+                            <i class="fab fa-github"></i> View on GitHub
+                        </a>
+                        <span class="status-badge live">Live</span>
+                    </div>
                 </div>
+                <p class="project-desc">An innovative code translation system leveraging state-of-the-art LLMs.</p>
+                <div class="tech-stack">
+                    <span class="tech-badge">Python</span>
+                    <span class="tech-badge">LangChain</span>
+                    <span class="tech-badge">OpenAI API</span>
+                    <span class="tech-badge">FastAPI</span>
+                </div>
+                <ul class="feature-list">
+                    <li>🔄 Cross-language code translation with 95% accuracy</li>
+                    <li>⚡ Optimized for performance with async processing</li>
+                    <li>🔍 Intelligent code analysis and optimization</li>
+                </ul>
             </div>
 
-            <div class="skill-category">
-                <h3>⚡ Frameworks</h3>
-                <div class="skill-badges">
-                    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-                    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-                    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-                    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+            <div class="project-card">
+                <div class="project-header">
+                    <h3>LinkedinAgent</h3>
+                    <div class="project-links">
+                        <a href="https://github.com/ShamalShaikh/LinkedinAgent" class="github-link">
+                            <i class="fab fa-github"></i> View on GitHub
+                        </a>
+                        <span class="status-badge live">Live</span>
+                    </div>
                 </div>
-            </div>
-
-            <div class="skill-category">
-                <h3>☁️ Cloud & DevOps</h3>
-                <div class="skill-badges">
-                    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-                    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-                    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-                    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-                    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+                <p class="project-desc">Automated LinkedIn management system using AI agents.</p>
+                <div class="tech-stack">
+                    <span class="tech-badge">Python</span>
+                    <span class="tech-badge">Selenium</span>
+                    <span class="tech-badge">LinkedIn API</span>
+                    <span class="tech-badge">MongoDB</span>
                 </div>
+                <ul class="feature-list">
+                    <li>🤖 Intelligent profile optimization</li>
+                    <li>📊 Advanced analytics dashboard</li>
+                    <li>🔄 Automated networking features</li>
+                </ul>
             </div>
+        </section>
 
-            <div class="skill-category">
-                <h3>🛢️ Databases</h3>
-                <div class="skill-badges">
-                    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-                    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-                    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+        <!-- Cloud & DevOps Projects -->
+        <section class="category">
+            <h2>☁️ Cloud & DevOps</h2>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <h3>Cloud Native Logger</h3>
+                    <div class="project-links">
+                        <a href="#" class="github-link">
+                            <i class="fab fa-github"></i> Coming Soon
+                        </a>
+                        <span class="status-badge wip">In Progress</span>
+                    </div>
                 </div>
-            </div>
-
-            <div class="skill-category">
-                <h3>🧠 AI/ML</h3>
-                <div class="skill-badges">
-                    <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
-                    <img src="https://img.shields.io/badge/Neural_Networks-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Neural Networks"/>
-                    <img src="https://img.shields.io/badge/Reinforcement_Learning-4285F4?style=for-the-badge&logo=google-colab&logoColor=white" alt="RL"/>
+                <p class="project-desc">Distributed logging system built for cloud-native applications.</p>
+                <div class="tech-stack">
+                    <span class="tech-badge">Kubernetes</span>
+                    <span class="tech-badge">ELK Stack</span>
+                    <span class="tech-badge">Go</span>
+                    <span class="tech-badge">AWS</span>
                 </div>
+                <ul class="feature-list">
+                    <li>📊 Real-time log aggregation and analysis</li>
+                    <li>🔍 Advanced search and filtering capabilities</li>
+                    <li>⚡ High-performance data processing</li>
+                </ul>
             </div>
-        </div>
-    </div>
+        </section>
 
-    <div class="github-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=ShamalShaikh&show_icons=true&theme=radical" alt="GitHub Stats" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShamalShaikh&theme=radical" alt="GitHub Streak" />
-    </div>
-
-    <div class="contributions">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamalShaikh&layout=compact&theme=radical" alt="Top Languages" />
-    </div>
-
-    <div class="connect-section">
-        <h2>Let's Connect! 🤝</h2>
-        <p>I'm always interested in collaborating on innovative projects. Feel free to reach out:</p>
-        <div class="social-links">
-            <a href="https://www.linkedin.com/in/shamal-shaikh/" target="_blank">
-                <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-            </a>
-            <a href="https://github.com/ShamalShaikh" target="_blank">
-                <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
-            </a>
-            <a href="mailto:your.email@example.com">
-                <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
-            </a>
-        </div>
+        <!-- Full Stack Projects -->
+        <section class="category">
+            <h2>💻 Full Stack Applications</h2>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <h3>AgenticAI</h3>
+                    <div class="project-links">
+                        <a href="https://github.com/ShamalShaikh/AgenticAI" class="github-link">
+                            <i class="fab fa-github"></i> View on GitHub
+                        </a>
+                        <span class="status-badge live">Live</span>
+                    </div>
+                </div>
+                <p class="project-desc">AI-powered Slack bot for automated team management.</p>
+                <div class="tech-stack">
+                    <span class="tech-badge">Node.js</span>
+                    <span class="tech-badge">React</span>
+                    <span class="tech-badge">Slack API</span>
+                    <span class="tech-badge">MongoDB</span>
+                </div>
+                <ul class="feature-list">
+                    <li>🤖 Intelligent meeting management</li>
+                    <li>📅 Automated scheduling</li>
+                    <li>📊 Team analytics dashboard</li>
+                </ul>
+            </div>
+        </section>
     </div>
 </div>
 
@@ -259,5 +247,107 @@ order: 4
 
 .skill-badges img:hover {
     transform: translateY(-2px);
+}
+
+.project-categories {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.category {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.project-card {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    transition: transform 0.2s;
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+}
+
+.project-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.project-links {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.github-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: #2188ff;
+    color: white;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.status-badge {
+    padding: 0.25rem 0.75rem;
+    border-radius: 15px;
+    font-size: 0.8rem;
+}
+
+.status-badge.live {
+    background: #28a745;
+    color: white;
+}
+
+.status-badge.wip {
+    background: #ffc107;
+    color: black;
+}
+
+.tech-stack {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 1rem 0;
+}
+
+.tech-badge {
+    background: rgba(33, 136, 255, 0.2);
+    color: #2188ff;
+    padding: 0.25rem 0.75rem;
+    border-radius: 15px;
+    font-size: 0.8rem;
+}
+
+.feature-list {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+}
+
+.feature-list li {
+    margin-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+@media (max-width: 768px) {
+    .project-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+    }
 }
 </style>

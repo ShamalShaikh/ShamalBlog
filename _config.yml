@@ -43,11 +43,10 @@ social:
   email: shamalshaikh@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/ShamalShaikh       # change to your github homepage
-    # Uncomment below to add more social links
-    - https://www.facebook.com/shamal.shaikh
+    - https://github.com/ShamalShaikh       
     - https://www.linkedin.com/in/shamal-shaikh
+    # Remove Facebook if not actively used
+    # - https://www.facebook.com/shamal.shaikh
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -80,9 +79,12 @@ theme_mode:   # [light|dark]
 #
 # e.g. 'https://cdn.com'
 img_cdn: 
-
 # the avatar on sidebar, support local or CORS resources
 avatar: shamal-suit3.jpeg
+avatar_size: 500
+
+# # the avatar on sidebar, support local or CORS resources
+# avatar: shamal-suit3.jpeg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
