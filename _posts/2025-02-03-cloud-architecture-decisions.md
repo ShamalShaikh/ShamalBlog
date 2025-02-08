@@ -1,0 +1,1 @@
+[Continue reading →](/ShamalBlog/posts/cloud-architecture-decisions) 
