@@ -17,7 +17,7 @@ order: 5
                 <div class="article-card">
                     <h3>Understanding LLM Architecture</h3>
                     <p>A deep dive into modern language model architectures</p>
-                    <a href="/posts/llm-architecture" class="read-more">Read More →</a>
+                    <a href="/ShamalBlog/posts/llm-architecture" class="read-more">Read More →</a>
                 </div>
                 <!-- Add more articles -->
             </div>
@@ -29,7 +29,7 @@ order: 5
                 <div class="article-card">
                     <h3>Scaling MongoDB for High Load</h3>
                     <p>How we optimized database performance</p>
-                    <a href="/posts/mongodb-scaling" class="read-more">Read More →</a>
+                    <a href="/ShamalBlog/posts/mongodb-scaling" class="read-more">Read More →</a>
                 </div>
                 <!-- Add more case studies -->
             </div>

@@ -25,4 +25,4 @@ image:
 - New frameworks for AI deployment
 - Performance optimization techniques
 
-[Read more AI news →](/tags/ai-trends) 
+[Read more AI news →](/ShamalBlog/tags/ai-trends) 

@@ -102,4 +102,4 @@ DeepSeek's approach to LLM development represents a significant step forward in 
 
 ---
 
-*Note: For more technical details, check out our [technical deep dives](/tags/ai-research/).* 
+*Note: For more technical details, check out our [technical deep dives](/ShamalBlog/tags/ai-research/).* 

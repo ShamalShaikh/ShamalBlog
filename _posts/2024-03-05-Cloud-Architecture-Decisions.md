@@ -41,4 +41,4 @@ endpoint = aiplatform.Endpoint(
 )
 ```
 
-[Continue reading →](/posts/cloud-architecture-decisions) 
+[Continue reading →](/ShamalBlog/posts/cloud-architecture-decisions) 
