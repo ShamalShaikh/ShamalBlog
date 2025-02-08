@@ -4,29 +4,21 @@
 
 @forward "jekyll-theme-chirpy/assets/css/style";
 
-/* Add your custom CSS here */
-
-/* Custom overrides */
+/* Custom styles */
 :root {
-  --sidebar-width: #{custom.$sidebar-width};
-  --topbar-height: #{custom.$topbar-height};
+  --sidebar-width: 280px;
+  --topbar-height: 3rem;
 }
 
-/* Component styles */
 .post-content {
   font-size: 1.1rem;
   line-height: 1.75;
-  
-  @include custom.custom-transition;
 }
 
 .sidebar {
-  width: calc(var(--sidebar-width));
-  
-  @include custom.flex-center;
+  width: var(--sidebar-width);
 }
 
-/* Use modern calc() instead of division */
 .content {
-  max-width: calc(#{custom.$content-max-width} - var(--sidebar-width));
+  max-width: calc(1200px - var(--sidebar-width));
 } 
